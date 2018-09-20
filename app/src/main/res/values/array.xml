@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_example_list_titles_2">
+        <item>Raggio di 100 metri</item>
+        <item>Raggio di 200 metri</item>
+        <item>Raggio di 300 metri</item>
+    </string-array>
+    <string-array name="pref_example_list_values_2">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+
+    <string-array name="pref_example_list_titles_3">
+        <item>Uomo</item>
+        <item>Donna</item>
+        <item>Non definito</item>
+    </string-array>
+    <string-array name="pref_example_list_values_3">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+
+
+    <string-array name="pref_example_list_titles">
+        <item>Notifiche attive</item>
+        <item>Notifiche disattivate</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+</resources>

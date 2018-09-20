@@ -1,0 +1,21 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NFCDisplayActivity">
+
+
+    <TextView
+        android:id="@+id/nfc_txt_receive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:text="Avvicina il dispositivo per ricevere la lista della spesa. "
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="25sp" />
+
+</RelativeLayout>

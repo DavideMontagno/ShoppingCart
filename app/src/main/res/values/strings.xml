@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Shopping Cart</string>
+
+    <string name="your_name"></string>
+
+
+    <string name="action_send">Share with</string>
+    <string name="action_about_us">About us</string>
+    <string name="action_setting">Settings...</string>
+    <string name="m_t_1">Benvenuto</string>
+    <string name="m_t_2">Grazie per averci scelto!</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_title_ringtone">Suoneria</string>
+    <string name="pref_ringtone_silent">Silenzioso</string>
+    <string name="pref_title_vibrate">Vibrazione</string>
+    <string name="title_activity_settings2">Settings</string>
+
+    <string name="pref_title_notifications_3">Sesso</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Design App</string>
+    <string name="pref_header_general_2">Preference App</string>
+
+    <string name="pref_title_location">Posizione</string>
+    <string name="pref_title_sincronization">Sincronizzazione</string>
+    <string name="pref_title_system_sync_settings">Gestisci i tuoi account</string>
+    <string name="pref_title_display_name">Qual è il tuo nome?</string>
+    <string name="google_maps_API_key">AIzaSyBaPcctWVeol2r3TWCRZlJxcP11xZOwwHs</string>
+    <string name="pref_default_display_name"></string>
+    <string name="pref_title_notifications">Notifiche</string>
+    <string name="pref_title_notifications_2">Intensità notifica</string>
+    <string name="pref_header_data_sync">Sincronizzazione</string>
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_manageacc">Gestisci i tuoi account</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifiche</string>
+
+
+</resources>

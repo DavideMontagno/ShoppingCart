@@ -1,0 +1,14 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <header
+        android:fragment="com.example.davidemontagnob.myapplication.SettingsActivity$PreferenceFragment"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/pref_header_general" />
+    <header
+        android:fragment="com.example.davidemontagnob.myapplication.SettingsActivity$LocNotifyPreference"
+        android:icon="@drawable/ic_sync_black_24dp"
+        android:title="Posizione e notifiche" />
+
+</preference-headers>
